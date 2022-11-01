@@ -1,0 +1,8 @@
+C:\Users\mateus\source\repos\Edka.Sa01\Edka.Sa01\bin\Debug\Edka.Sa01.exe.config
+C:\Users\mateus\source\repos\Edka.Sa01\Edka.Sa01\bin\Debug\Edka.Sa01.exe
+C:\Users\mateus\source\repos\Edka.Sa01\Edka.Sa01\bin\Debug\Edka.Sa01.pdb
+C:\Users\mateus\source\repos\Edka.Sa01\Edka.Sa01\obj\Debug\Edka.Sa01.csproj.AssemblyReference.cache
+C:\Users\mateus\source\repos\Edka.Sa01\Edka.Sa01\obj\Debug\Edka.Sa01.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus\source\repos\Edka.Sa01\Edka.Sa01\obj\Debug\Edka.Sa01.csproj.CoreCompileInputs.cache
+C:\Users\mateus\source\repos\Edka.Sa01\Edka.Sa01\obj\Debug\Edka.Sa01.exe
+C:\Users\mateus\source\repos\Edka.Sa01\Edka.Sa01\obj\Debug\Edka.Sa01.pdb

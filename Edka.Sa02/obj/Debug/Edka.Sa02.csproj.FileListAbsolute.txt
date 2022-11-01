@@ -1,0 +1,8 @@
+C:\Users\mateus\source\repos\Edka.Sa01\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mateus\source\repos\Edka.Sa01\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mateus\source\repos\Edka.Sa01\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mateus\source\repos\Edka.Sa01\ConsoleApp1\obj\Debug\Edka.Sa02.csproj.AssemblyReference.cache
+C:\Users\mateus\source\repos\Edka.Sa01\ConsoleApp1\obj\Debug\Edka.Sa02.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus\source\repos\Edka.Sa01\ConsoleApp1\obj\Debug\Edka.Sa02.csproj.CoreCompileInputs.cache
+C:\Users\mateus\source\repos\Edka.Sa01\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mateus\source\repos\Edka.Sa01\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
